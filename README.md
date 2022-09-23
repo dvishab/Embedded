@@ -4,4 +4,4 @@
 
 Adafruit QT Py RP2040
 
-<img src="https://circuitpython.org/assets/images/boards/large/adafruit_qtpy_rp2040.jpg" width="200" height="200"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Plus_symbol.svg/1200px-Plus_symbol.svg.png" width="170" heigth="170">
+<img src="https://circuitpython.org/assets/images/boards/large/adafruit_qtpy_rp2040.jpg" width="200" height="200"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Plus_symbol.svg/1200px-Plus_symbol.svg.png" width="150" heigth="150"> <img src="https://cdn-shop.adafruit.com/970x728/3595-04.jpg" width="200" height="200">
