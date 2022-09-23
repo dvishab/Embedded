@@ -1,1 +1,1 @@
-# Embedded
+Adafruit QT Py RP2040 and Adafruit APDS9960 Proximity, Light, RGB, and Gesture Sensor when come together, can help newbies create cool projects with hands on experience. In this project, the brightness from objects/sources of light is detected by the APDS9960 sensor and this data is used to implement a "firfly" as well as a custom real-time visualizer
