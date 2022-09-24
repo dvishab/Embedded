@@ -24,4 +24,6 @@ Up-next is the implementation of a **real-time visualizer** using keyboard emula
 <br />
 We will be using two keys: 'O' and 'Backspace' to indicate any change at the input to the sensor. As and when there is an increase in the brightness level at the input to the sensor, any text editor in your laptop should start typing 'O's. If the brightness at the sensor input decreases then the 'Backspace' key should come into action and start erasing the 'O's so that the user is updated of the change(increase/decrease) at the sensor input. This can be done by adjusting the threshold so that an increase in brightness leads to typing 'O' and decrease leads to the erasing of 'O's using Backspace.
 
+<img src="https://user-images.githubusercontent.com/114099174/192075855-50a8592a-ec6e-4c09-8542-c984ea2ff543.png">
+
 
