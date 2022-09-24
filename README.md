@@ -7,5 +7,7 @@ Adafruit QT Py RP2040
 <img src="https://circuitpython.org/assets/images/boards/large/adafruit_qtpy_rp2040.jpg" width="200" height="200"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Plus_symbol.svg/1200px-Plus_symbol.svg.png" width="150" heigth="150"> <img src="https://cdn-shop.adafruit.com/970x728/3595-04.jpg" width="200" height="200"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Plus_symbol.svg/1200px-Plus_symbol.svg.png" width="150" heigth="150"> <img src="https://cdn1-shop.mikroe.com/img/product/wire-jumpers-female-to-female-15cm-10pcs/wire-jumpers-female-to-female-15cm-10pcs-thickbox_default-12x.jpg" width="200" heigth="200">
 
 Now, let's implement a firefly!
-<\br>
-So, the gist here is: the Neopixel led on the QT Py board should blink in synchronization with an actual firefly video. 
+<br />
+So, the gist here is: the Neopixel led on the QT Py board should blink in synchronization with an actual firefly video. For this, we have used the brightness measurement feature of the sensor. Using the APDS9960, the brightness of the flashing firefly in the video is measured and this reading is used to control the pixels of the neopixel led by scaling the measured sensor output data to adjust the brightness/blinking of the neopixel so that it behaves just like the firefly in the video.
+
+Below is the snippet of the code:
