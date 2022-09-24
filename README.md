@@ -18,6 +18,8 @@ Below is the snippet of the code:
 <br />
 ![firefly](https://user-images.githubusercontent.com/114099174/192074256-795b89fb-5ea0-4ec2-806f-01ca170b0bf9.gif)
 <br />
+<br />
+<br />
 Up-next is the implementation of a real-time visualizer using keyboard emulator to get real time update of the detected sensor data. This can be done using HID keyboard library. The intention here is to get a real time update of any change in brightness level as sensed by the APDS9600. 
 <br />
 We will be using two keys: 'O' and 'Backspace' to indicate any change at the input to the sensor. As and when there is an increase in the brightness level at the input to the sensor, any text editor in your laptop should start typing 'O's. If the brightness at the sensor input decreases then the 'Backspace' key should come into action and start erasing the 'O's so that the user is updated of the change(increase/decrease) at the sensor input.
