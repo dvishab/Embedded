@@ -16,5 +16,4 @@ Below is the snippet of the code:
 <img src="https://user-images.githubusercontent.com/114099174/192073633-bc447baf-d8e6-4d60-b762-73fb8102b8e6.png" width="700" height="700">
 <br />
 <br />
-![](Firefly_vid_AdobeExpress.gif)
-
+![firefly](https://user-images.githubusercontent.com/114099174/192074256-795b89fb-5ea0-4ec2-806f-01ca170b0bf9.gif)
